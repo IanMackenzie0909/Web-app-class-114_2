@@ -22,15 +22,14 @@ To use this project:
 
 ## 📂 Project Structure
 
-
 /project-folder
 │── index.html
 │── README.md
 
-
 ## ✨ Customization
 
 You can:
+
 - Change the title
 - Modify the welcome message
 - Add styles
